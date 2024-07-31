@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+.icon-gradient {
+  font-size: 1.3rem; 
+  background: linear-gradient(45deg, #00ffff, #6a0dad);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.ellipse1-bg{
+  width: 100%;
+  background-image: url('./assets/Ellipse\ 33.svg'); 
+  background-repeat: no-repeat;
+}
