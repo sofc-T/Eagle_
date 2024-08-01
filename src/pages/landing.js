@@ -36,7 +36,7 @@ const Landing = () => {
       </div>
       <div className="w-40% ellipse1-bg">
         <div> 
-          <img src="eagle_no_bg.png" className='mt-32 w-11/12 opacity-25'></img>
+          <img src="eagle_no_bg.png" alt="Eagle" className='mt-32 w-11/12 opacity-25'></img>
         </div>
       </div>
     </div>
