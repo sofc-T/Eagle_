@@ -1,12 +1,13 @@
 import './App.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
+import Login from './pages/login';
 
 // import Landing from './pages/landing';
-import Signup from './pages/signup';
+// import Signup from './pages/signup';
 
 function App() {
   return (
-      <Signup />
+      <Login />
   );
 }
 
