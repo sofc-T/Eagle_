@@ -1,2 +1,2 @@
 # Eagle_
-Eagle project pages - React
+Eagle project interfaces built using react
